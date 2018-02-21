@@ -17,5 +17,11 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>bliss_beach</item>
+        <item>bliss_bubblediver</item>
+        <item>bliss_materialsunset</item>
+        <item>bliss_moonset</item>
+        <item>bliss_roundflame</item>
+        <item>bliss_tissue</item>
     </string-array>
 </resources>
